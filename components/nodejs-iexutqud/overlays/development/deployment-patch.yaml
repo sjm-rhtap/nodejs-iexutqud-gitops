@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/nodejs-iexutqud:4d532de8590e32cbe8027c7299ce64a79046775b@sha256:6d504d29211d54af4ccce7af622a0a3a570e6c2f04da6f5b686cbc54c8c66d0e
+        - image: quay.io/sjmrhtap/nodejs-iexutqud:659918e9575ce8b6cdd732ac3d5f694eaf368911@sha256:15586faefe954e1fc331d80de02857c9b57c10cbbdff09577eeb0028be6de3c5
           name: container-image
